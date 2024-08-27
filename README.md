@@ -1,1 +1,1 @@
-Este es el archivo README para el proyecto de Git y GitHub.
+﻿Este taller de Git y GitHub es una excelente oportunidad para aprender sobre control de version
