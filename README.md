@@ -1,1 +1,1 @@
- Tiene como objetivo introducirnos a el uso de Git y GitHub. Y aprenderemos sobre control de versiones y colaboración en proyecto.
+Este taller es una excelente oportunidad para aprender sobre control de version. Y aprenderemos sobre control de versiones y colaboración en proyecto.
